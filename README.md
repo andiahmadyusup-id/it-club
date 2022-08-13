@@ -1,1 +1,1 @@
-# Information Club
+# Information Technology Club
