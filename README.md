@@ -1,1 +1,1 @@
-# it-club
+# Information Club
