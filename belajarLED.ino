@@ -24,10 +24,10 @@ void loop() {
   Serial.println("Lampu Mati");
   delay(500);
 
-  digitalWrite(pinLED, HIGH); // Menyalakan LED Board Arduino
+  digitalWrite(pinLED, HIGH); 
   Serial.println("Lampu Nyala");
   delay(100); 
-  digitalWrite(pinLED, LOW); //Mematikan LED Board Arduino
+  digitalWrite(pinLED, LOW); 
   Serial.println("Lampu Mati");
   delay(100);
   digitalWrite(pinLED, HIGH); 
